@@ -20,29 +20,6 @@ An AI-powered **Eye Disease Detection** web application that allows users to **u
 
 ---
 
-## 📥 Installation & Setup
-Follow these steps to **run the project locally**:
-
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/Sandeepmopidevi/Eye-Disease-Detection.git
-cd Eye-Disease-Detection
-```
-
-### 2️⃣ Install Dependencies
-Make sure you have **Python 3.7+** installed. Then, install the required packages:
-```sh
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the Flask Server
-```sh
-python app.py
-```
-The app will start on **http://127.0.0.1:5000/**.
-
----
-
 ## 🖼️ Project Structure
 ```
 📂 Eye-Disease-Detection/
